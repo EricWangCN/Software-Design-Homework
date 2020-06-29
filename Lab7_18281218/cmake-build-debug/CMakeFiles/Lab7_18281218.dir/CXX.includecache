@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab7_18281218/Lab7_data.h
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab7_18281218/elevator/Lab7_elevator_work.cpp
+../Lab7_data.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab7_18281218/Lab7_data.h
+Lab7_elevator_work.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab7_18281218/elevator/Lab7_elevator_work.h
+zconf.h
+-
+stdio.h
+-
+cstdlib
+-
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab7_18281218/elevator/Lab7_elevator_work.h
+../Lab7_data.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab7_18281218/Lab7_data.h
+

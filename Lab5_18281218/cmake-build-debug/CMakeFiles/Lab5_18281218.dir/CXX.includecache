@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_call.cpp
+Lab5_data.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_data.h
+Lab5_call.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_call.h
+Lab5_conf.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_conf.h
+stdio.h
+-
+cstdlib
+-
+stdlib.h
+-
+string.h
+-
+sys/malloc.h
+-
+sys/stat.h
+-
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_call.h
+Lab5_data.h
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_data.h
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_conf.h
+
+/Users/wangzilong/Desktop/Study/Assignment/ProgramDesign/Lab5_18281218/Lab5_data.h
+
